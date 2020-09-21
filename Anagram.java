@@ -5,6 +5,7 @@ public class Anagram {
 	public boolean isAnagram(String a, String b){
 	    if(a.length()!=0 & b.length()!=0)
 	    {
+                "hai"
 	    	if(a.length()==b.length())
 	    	{
 	    		a.toLowerCase();
